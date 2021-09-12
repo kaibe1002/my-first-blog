@@ -1,4 +1,4 @@
-from .models import Post,Comment
+
 from django.utils import timezone
 from django.shortcuts import render, get_object_or_404
 from .forms import PostForm,CommentForm
