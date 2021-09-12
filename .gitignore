@@ -18,6 +18,7 @@ myvenv
 db.sqlite3
 /static
 .DS_Store
+local_settings.py
 
 # Files that might appear in the root of a volume
 .DocumentRevisions-V100
@@ -34,5 +35,4 @@ db.sqlite3
 Network Trash Folder
 Temporary Items
 .apdisk
-
 
